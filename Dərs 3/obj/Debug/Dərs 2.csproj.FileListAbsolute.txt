@@ -1,0 +1,18 @@
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 2\Dərs 2\bin\Debug\Dərs 2.exe.config
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 2\Dərs 2\bin\Debug\Dərs 2.exe
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 2\Dərs 2\bin\Debug\Dərs 2.pdb
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 2\Dərs 2\obj\Debug\Dərs 2.csprojAssemblyReference.cache
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 2\Dərs 2\obj\Debug\Dərs 2.exe
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 2\Dərs 2\obj\Debug\Dərs 2.pdb
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 3\Dərs 3\bin\Debug\Dərs 2.exe.config
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 3\Dərs 3\bin\Debug\Dərs 2.exe
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 3\Dərs 3\bin\Debug\Dərs 2.pdb
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 3\Dərs 3\obj\Debug\Dərs 2.csprojAssemblyReference.cache
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 3\Dərs 3\obj\Debug\Dərs 2.exe
+C:\Users\Sanan Abbasov\Desktop\C# Dərsləri\Dərs 3\Dərs 3\obj\Debug\Dərs 2.pdb
+C:\Users\User\Desktop\Console\Dərs 3\bin\Debug\Dərs 2.exe.config
+C:\Users\User\Desktop\Console\Dərs 3\bin\Debug\Dərs 2.exe
+C:\Users\User\Desktop\Console\Dərs 3\bin\Debug\Dərs 2.pdb
+C:\Users\User\Desktop\Console\Dərs 3\obj\Debug\Dərs 2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Console\Dərs 3\obj\Debug\Dərs 2.exe
+C:\Users\User\Desktop\Console\Dərs 3\obj\Debug\Dərs 2.pdb
